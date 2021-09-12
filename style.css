@@ -1,0 +1,26 @@
+body {
+    font-family: 'Exo 2', sans-serif;
+    background-color: #a2b9de;
+    height: 100%;
+}
+
+main {
+    margin-top: '20%';
+    text-align: center;
+    height: 100%;
+}
+
+h3 {
+    margin-top: 100px;
+}
+
+p {
+    padding: 2rem;
+    text-align: center;
+    font-size: large;
+}
+
+#show-btn {
+    background-color: #008CBA;
+    margin-top: 50px;
+}
