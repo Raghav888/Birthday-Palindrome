@@ -178,7 +178,7 @@ var bdayInput = document.querySelector('#bday-input');
 var showBtn = document.querySelector('#show-btn');
 var resultDiv = document.querySelector('#result');
 
-function clickHandler(e) {
+function clickHandler() {
     var bdayString = bdayInput.value;
 
     if (bdayString !== '') {
