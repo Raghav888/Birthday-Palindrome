@@ -157,7 +157,7 @@ const getPreviousDate=(date) =>{
 
 const getPreviousPalindromeDate=(date)=> {
 
-    const previousDate = getPreviousDate(date);
+    let previousDate = getPreviousDate(date);
     let ctr = 0;
 
     while (1) {
