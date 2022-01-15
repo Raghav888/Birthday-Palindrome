@@ -187,7 +187,7 @@ const clickHandler=()=> {
         let mm = date[1];
         let dd = date[2];
 
-        let date = {
+         date = {
             day: Number(dd),
             month: Number(mm),
             year: Number(yyyy)
