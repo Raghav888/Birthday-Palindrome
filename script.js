@@ -106,7 +106,7 @@ const getNextDate=(date)=> {
 
 const getNextPalindromeDate=(date)=> {
 
-    const nextDate = getNextDate(date);
+    let nextDate = getNextDate(date);
     let ctr = 0;
 
     while (1) {
